@@ -10,7 +10,7 @@
 First, git clone this repository.
 
 ```shell
-git clone https://github.com/nbsp1221/react-minesweeper-game.git
+git clone https://github.com/SoftwareArchitect9817/react-minesweeper-game.git
 cd react-minesweeper-game
 ```
 
