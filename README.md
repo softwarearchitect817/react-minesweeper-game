@@ -1,6 +1,5 @@
 # Minesweeper Game in React
 
-Play: https://nbsp1221.github.io/react-minesweeper-game
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/50603255/76736006-6df30b00-67a9-11ea-8171-1436bb460a44.PNG" alt="Minesweeper game">
